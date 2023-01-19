@@ -47,27 +47,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Xiao_yan_21' //Link Instagrammu
-global.sgh = 'https://github.com/ImYanXiao' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
+global.sig = 'https://instagram.com/Raihan_m.y' //Link Instagrammu
+global.sgh = 'https://github.com/Rey12p7eu' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/HPK9MOa6aqL6zXluPAbG0g'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '081545445591' //Nomor Danamu
+global.ppulsa = '083156957610' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281231079387' //Nomor Bot
-global.nomorown = '6285736178354' //Nomor Owner
-global.namebot = 'Elaina BOT' //Nama Bot
-global.nameown = '𝓧𝓲𝓪𝓸 - 𝓨𝓪𝓷' // Nama Owner
+global.nomorbot = '6282155188062' //Nomor Bot
+global.nomorown = '6283156957610' //Nomor Owner
+global.namebot = 'Nia' //Nama Bot
+global.nameown = 'Hannn' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285736178354', '❦ 𝚇 𝚒 𝚊 𝚘 - 𝚈𝚊𝚗? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6283156957610', '❦ H a n n n- Han? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,10 +99,10 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴇʟᴀɪɴᴀ - ᴄʜᴀɴ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃'
-global.namedoc = 'Elaina`s Bot' //Main Name Menu Document
+global.wm = '                「 Nia 汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Nia - chan˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Nia'
+global.namedoc = 'Nia`s Bot' //Main Name Menu Document
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -332,7 +332,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 857-3617-8354'
+global.phn = '+62 821-5518-8062'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -373,7 +373,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗘\nl\na\ni\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎\nN\ni\na\na\na\na\n-\nC\nh\na\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
 global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴇʟᴀɪɴᴀ ʙᴏᴛᴢ'
 
